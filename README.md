@@ -21,7 +21,7 @@ The project has currently been tested on Linux, other platforms are untested.
 1. `git clone` the repository
 2. `cd` to it
 3. `cargo build --release`
-4. The binary will be at `target/release/lifers`
+4. The binary will be at `target/release/almagro`
 
 ## Usage
 * Use `n` to create a new request and `x` to delete the currently selected one
